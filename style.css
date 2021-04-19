@@ -10,9 +10,58 @@
     margin-top: 70px;
     margin-left: 50px;
 }
+h1{
+    font-size: 50px;
+}
 .autore{
     color: lightslategray;
 }
 .descr{
     margin-top: 1px;
+    font-size: 15px;
+}
+ul{
+    padding: 15px;
+}
+.table{
+    width: 1500px;
+    font-size: 15px;
+}
+.title-row{
+    background-color: #6495ED;
+    width: 500px;
+    display: inline-block;
+    float: left;
+    color: white;
+}
+.testo{
+    background-color:lightblue;
+    width: 500px;
+    height: 60px;
+    display: inline-block;
+    float: left;
+    line-height: 60px;
+}
+.testogrande{
+    background-color: lightblue;
+    width: 500px;
+    display: inline-block;
+    float: left;
+    height: 60px;
+}
+.testobianco{
+    background-color: white;
+    width: 500px;
+    height: 60px;
+    display: inline-block;
+    float: left;
+    line-height: 60px;
+}
+.testograndebianco{
+    background-color: white;
+    width: 500px;
+    display: inline-block;
+    float: left;
+    height: 60px;
+
 }
