@@ -1,0 +1,18 @@
+
+.sfondo{
+    background-color: lightskyblue;
+    background-image: url("../html-css-booleaner/img/pattern.png");
+    background-size: contain;
+    height: 150px;
+}
+.sfondo > img{
+    max-width: 200px;
+    margin-top: 70px;
+    margin-left: 50px;
+}
+.autore{
+    color: lightslategray;
+}
+.descr{
+    margin-top: 1px;
+}
