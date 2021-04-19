@@ -1,4 +1,6 @@
-
+*{
+    font-family: 'Antonio', sans-serif;
+}
 .sfondo{
     background-color: lightskyblue;
     background-image: url("../html-css-booleaner/img/pattern.png");
@@ -18,7 +20,7 @@ h1{
 }
 .descr{
     margin-top: 1px;
-    font-size: 15px;
+    font-size: 13px;
 }
 ul{
     padding: 15px;
@@ -37,31 +39,63 @@ ul{
 .testo{
     background-color:lightblue;
     width: 500px;
-    height: 60px;
+    height: 70px;
     display: inline-block;
     float: left;
-    line-height: 60px;
+    line-height: 70px;
 }
 .testogrande{
     background-color: lightblue;
     width: 500px;
     display: inline-block;
     float: left;
-    height: 60px;
+    height: 70px;
 }
 .testobianco{
     background-color: white;
     width: 500px;
-    height: 60px;
+    height: 70px;
     display: inline-block;
     float: left;
-    line-height: 60px;
+    line-height: 70px;
 }
 .testograndebianco{
     background-color: white;
     width: 500px;
     display: inline-block;
     float: left;
-    height: 60px;
-
+    height: 70px;
 }
+.paragrafo{
+    margin-top: 280px;
+}
+.titolofooter{
+    color: lightslategray;
+}
+.sottolineato{
+    background-color: yellow;
+}
+.scritta{
+    color: white;
+    position: absolute;
+    top: 20px;
+    left: 30px;
+    font-size: 20px;
+}
+.monitor{
+    background-image: url("../html-css-booleaner/img/monitor.jpg");
+    background-size: contain;
+    height: 250px;
+    margin-bottom: 10px;
+    background-repeat: no-repeat;
+    position: relative;
+}
+.graph{
+    background-image: url("../html-css-booleaner/img/graph.jpg");
+    background-size: contain;
+    height: 250px;
+    margin-bottom: 10px;
+    background-repeat: no-repeat;
+    position: relative;
+}
+
